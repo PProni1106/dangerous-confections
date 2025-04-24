@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Order Online | Dangerous Confections</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Order Online</h1>
+    <nav><a href="index.html">Back to Home</a></nav>
+  </header>
+
+  <section>
+    <p>Online ordering is coming soon! In the meantime, give us a call or stop by in person.</p>
+    <p>Phone: (555) 123-4567</p>
+    <p>Location: Howell, NJ</p>
+  </section>
+</body>
+</html>
