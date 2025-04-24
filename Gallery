@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gallery | Dangerous Confections</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Photo Gallery</h1>
+    <nav><a href="index.html">Back to Home</a></nav>
+  </header>
+
+  <section class="gallery">
+    <img src="images/gallery1.jpg" alt="Dangerous Donuts">
+    <img src="images/gallery2.jpg" alt="Epic Subs">
+    <img src="images/gallery3.jpg" alt="Latte Art">
+    <!-- Add more images -->
+  </section>
+</body>
+</html>
