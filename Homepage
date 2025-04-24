@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dangerous Confections</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="images/skull-logo.png" alt="Dangerous Confections Skull Logo" class="logo">
+    <h1>Dangerous Confections</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="order.html">Order</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Bakery. Deli. Coffee. With Bite.</h2>
+    <p>Where sweet meets savage. And subs go to heaven.</p>
+  </section>
+
+  <section id="bakery">
+    <h3>Bakery</h3>
+    <p>Legendary cookies, killer cakes, baked to blow minds.</p>
+    <img src="images/bakery.jpg" alt="Bakery treats">
+  </section>
+
+  <section id="deli">
+    <h3>Deli</h3>
+    <p>Subs stacked with flavor and danger. Heroes made here.</p>
+    <img src="images/deli.jpg" alt="Deli sandwiches">
+  </section>
+
+  <section id="coffee">
+    <h3>Coffee</h3>
+    <p>Nirvana-level lattes and bold brews. Wake up dangerously.</p>
+    <img src="images/coffee.jpg" alt="Coffee drinks">
+  </section>
+
+  <footer>
+    <p>Follow us:</p>
+    <div class="socials">
+      <a href="https://instagram.com/yourhandle">Instagram</a>
+      <a href="https://facebook.com/yourpage">Facebook</a>
+      <a href="https://tiktok.com/@yourhandle">TikTok</a>
+    </div>
+    <p>&copy; 2025 Dangerous Confections</p>
+  </footer>
+</body>
+</html>
