@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dangerous Confections</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Dangerous Confections</h1>
+    <nav>
+      <ul>
+        <li><a href="#bakery">Bakery</a></li>
+        <li><a href="#deli">Deli</a></li>
+        <li><a href="#coffee">Coffee</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Skull-Sweet, Sub-Savory, Dangerously Delicious</h2>
+    <p>Welcome to Howell’s most legendary spot for bakery, deli, and coffee magic.</p>
+  </section>
+
+  <section id="bakery">
+    <h3>Bakery</h3>
+    <p>Our brown butter chocolate chip cookies and creative confections are baked fresh daily.</p>
+    <img src="bakery.jpg" alt="Bakery treats">
+  </section>
+
+  <section id="deli">
+    <h3>Deli</h3>
+    <p>Subs so stacked they should be illegal. Fresh ingredients, bold flavors, legendary bites.</p>
+    <img src="deli.jpg" alt="Delicious subs">
+  </section>
+
+  <section id="coffee">
+    <h3>Coffee</h3>
+    <p>Signature lattes, bold brews, and seasonal flavors. Dangerously good caffeine.</p>
+    <img src="coffee.jpg" alt="Coffee drinks">
+  </section>
+
+  <footer id="contact">
+    <h4>Follow & Visit Us</h4>
+    <p>We’re in Howell, NJ. Come hungry. Leave dangerous.</p>
+    <div class="socials">
+      <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a> |
+      <a href="https://facebook.com/yourpage" target="_blank">Facebook</a> |
+      <a href="https://tiktok.com/@yourhandle" target="_blank">TikTok</a>
+    </div>
+    <p>&copy; 2025 Dangerous Confections</p>
+  </footer>
+</body>
+</html>
