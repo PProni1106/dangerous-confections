@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Menu | Dangerous Confections</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Our Menu</h1>
+    <nav><a href="index.html">Back to Home</a></nav>
+  </header>
+
+  <section>
+    <h2>Bakery</h2>
+    <ul>
+      <li>Brown Butter Cookies - $3</li>
+      <li>Skull Cakes - $5</li>
+      <li>Lava Cupcakes - $4</li>
+    </ul>
+
+    <h2>Deli Heroes</h2>
+    <ul>
+      <li>The Refriggenator - $12</li>
+      <li>The Spacy Italian - $11</li>
+      <li>Turkey Skull Slammer - $10</li>
+    </ul>
+
+    <h2>Coffee</h2>
+    <ul>
+      <li>Nirvana Latte (Almond & Caramel) - $5</li>
+      <li>Spicy Mocha ("Spacy") - $4.50</li>
+      <li>Cold Brew Wrecking Ball - $4</li>
+    </ul>
+  </section>
+</body>
+</html>
